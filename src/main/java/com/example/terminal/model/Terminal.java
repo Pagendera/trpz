@@ -1,6 +1,6 @@
 package com.example.terminal.model;
 
-import com.example.terminal.pattern.TerminalStrategy;
+import com.example.terminal.pattern.strategy.TerminalStrategy;
 
 public class Terminal {
     private TerminalStrategy terminalStrategy;
